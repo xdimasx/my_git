@@ -4,7 +4,9 @@ cp NOSATSKYI/VART/Nosatskiy.txt NOSATSKYI/
 #Виведення повідомлення
 
 
-echo "Створено копію!"
+echo "Створено копію файлів!" 
+#І створення папки
+mkdir my
 
 
 
