@@ -1,4 +1,5 @@
 #!/bin/bash
+#Створення каталогів і файлів
 mkdir NOSATSKYI
 mkdir NOSATSKYI/VARR
 mkdir NOSATSKYI/VARS
